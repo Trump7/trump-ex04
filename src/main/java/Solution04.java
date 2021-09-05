@@ -1,3 +1,13 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Exercise 4
+ *  Copyright 2021 Matthew  Trump
+ *
+ *  This program will print a line asking for a noun, verb, adjective, and adverb
+ *  Then it will take input from the user and assign each input a string
+ *  Next, the program will combine all of the inputs into one funny sentence
+ *  Finally, it will display the mad lib for the user to enjoy
+ */
+
 import java.util.Scanner;
 
 public class Solution04 {
